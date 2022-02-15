@@ -5,6 +5,6 @@
 --------------------------------------------------
 #for http://www.nisnascomp.com 
 --------------------------------------------------
-#support us on http://www.nisnascom.com 
+#support us on http://www.nisnascomp.com 
 --------------------------------------------------
 #contact me via fb : @iskakfatoni
