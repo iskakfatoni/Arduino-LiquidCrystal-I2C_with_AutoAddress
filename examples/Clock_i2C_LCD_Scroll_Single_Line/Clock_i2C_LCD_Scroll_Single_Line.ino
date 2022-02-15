@@ -1,6 +1,3 @@
-//Created by Dani-Rajacell for www.belajarduino.com
-//Dukung kami melalui www.tokopedia.com/rajacell
-
 //#include <ESP8266WiFi.h>
 //#include <Wire.h>  // needed if you use esp8266
 
@@ -37,9 +34,6 @@ void setup()
  lcd.begin();
 
 }
-
-//Created by Dani-Rajacell for www.belajarduino.com
-//Dukung kami melalui www.tokopedia.com/rajacell
 
 void loop() {
   // put your main code here, to run repeatedly:  
