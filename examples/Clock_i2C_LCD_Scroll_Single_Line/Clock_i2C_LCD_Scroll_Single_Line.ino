@@ -20,9 +20,6 @@ uint8_t dd = conv2d(__DATE__ + 4), bb = conv2d(__DATE__), y1 = conv2d(__DATE__ +
 String bl="   ";
 uint8_t dtk=0, mnt = 0;
 
-//Created by Dani-Rajacell for www.belajarduino.com
-//Dukung kami melalui www.tokopedia.com/rajacell
-
 void setup()
 {
  //Aktifkan serial jika ingin melihat notifikasi di Serial monitor
@@ -81,10 +78,6 @@ void loop() {
   lcd.print(y2);
   delay(100);}
 }
-
-//Created by Dani-Rajacell for www.belajarduino.com
-//Dukung kami melalui www.tokopedia.com/rajacell
-
 
 void updateClock() {
   switch (__DATE__[0]) {
