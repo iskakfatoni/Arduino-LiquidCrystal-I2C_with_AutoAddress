@@ -74,7 +74,7 @@ public:
 	/**
 	 * Set the LCD display in the correct begin state, must be called before anything else is done.
 	 */
-	void begin2();
+	//void begin2();
 	void begin();
 	void autoBegin();
 	
