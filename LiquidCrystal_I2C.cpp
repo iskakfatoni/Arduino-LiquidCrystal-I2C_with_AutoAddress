@@ -137,6 +137,7 @@ void LiquidCrystal_I2C::begin() {
 	clear(); home();
 }
 
+/*
 void LiquidCrystal_I2C::begin2() {
 	Wire.begin();
 	_displayfunction = LCD_4BITMODE | LCD_1LINE | LCD_5x8DOTS;
@@ -195,7 +196,7 @@ void LiquidCrystal_I2C::begin2() {
 	command(LCD_ENTRYMODESET | _displaymode);
 	
 	home();
-}
+}  */
 
 void LiquidCrystal_I2C::autoBegin() {
 	//AUTOADDRESS
