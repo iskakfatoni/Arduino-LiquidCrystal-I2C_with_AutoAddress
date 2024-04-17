@@ -1,7 +1,7 @@
 #include <LiquidCrystal_I2C.h>
 
 // Set the LCD for a 16 chars and 2 line display
-LiquidCrystal_I2C lcd(6, 2);
+LiquidCrystal_I2C lcd(16, 2);
 
 void setup()
 {
