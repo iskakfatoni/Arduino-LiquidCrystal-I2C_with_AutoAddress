@@ -76,6 +76,7 @@ public:
 	 */
 	void begin2();
 	void begin();
+	void autoBegin();
 	
 	 /**
 	  * Remove all the characters currently shown. Next print/write operation will start
