@@ -70,7 +70,7 @@ Serial.println("Scanning...");
 }
 
 
-
+/*
 void LiquidCrystal_I2C::begin() {
 	Wire.begin();
 	_displayfunction = LCD_4BITMODE | LCD_1LINE | LCD_5x8DOTS;
@@ -135,7 +135,7 @@ void LiquidCrystal_I2C::begin() {
 	print(_addr,HEX);
 	delay(2500);
 	clear(); home();
-}
+}   */
 
 void LiquidCrystal_I2C::begin() {
 		//AUTOADDRESS
